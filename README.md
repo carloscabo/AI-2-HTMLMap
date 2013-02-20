@@ -25,7 +25,7 @@ Tips & Tricks
 
 ![Named paths](/readme-images/path-names.png "Named paths")
 
-  - By default the _**href**_ of the area will take the name of the path in Adobe Illustrator. You can set your own path names to help to identify each _**area**_ in the image map renaming the path in the _**Layers palette**_.
+  - By default the _**href**_ of the area will take the name of the path in Adobe Illustrator. You can set your own path names in the _**Layers palette**_ to help you to identify each _**area**_ in the resulting image map.
 
   - If you leave your path unnamed the _**areas**_ will be named sequentially... (#1, #2, #3...). Same occurs with _**alt**_ attribute.
   
@@ -35,4 +35,4 @@ Tips & Tricks
   
   - If your path has hundreds of points you'll get a huge coordinate string. In some situations could be usefull to reduce the complexity of the path. You can do it in Illustrator usign the _**Object > Path > Simplity...**_ option.
   
-  - If you plan to export your image to use it in your image map its a good practice to add a background layer with a rectangle the same size of the document. Illustrator trims away empty pixels when exporting to PNG / JPEG using the _**File > Export**_ command.
+  - If you plan to export your image to use it in your image map its a good practice to add a background layer with a rectangle with the same size of the document. Illustrator trims away empty pixels when exporting to PNG / JPEG using the _**File > Export**_ command.

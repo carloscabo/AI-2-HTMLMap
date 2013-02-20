@@ -117,6 +117,6 @@ with(win){
 	}
 }
 win.panel.but.onClick = function(){ generateHTMLMap(); }
-win.panel.but_help.onClick = function(){ openURL('http://www.google.com'); }
+win.panel.but_help.onClick = function(){ openURL('https://github.com/carloscabo/AI-2-HTMLMap'); }
 win.center();
 win.show();
