@@ -1,7 +1,7 @@
 AI-2-HTMLMap
 ============
 
-AI-2-HTMLMap is an Adobe Illustrator Script that exports path items in your .AI document as standard HTML MAP Area coordinates. Perfect for building complex Image Maps directly in Illustrator or exporting complex shapes.
+### AI-2-HTMLMap is an Adobe Illustrator Script that exports path items in your .AI document as standard HTML MAP Area coordinates. Perfect for building complex Image Maps directly in Illustrator using its tools (rotate, scale, mirror...) or exporting complex shapes as Image Maps.
 
 ![AI-2-HTMLMap Screenshot](/readme-images/script-snapshot.png "AI-2-HTMLMap Screenshot")
 
