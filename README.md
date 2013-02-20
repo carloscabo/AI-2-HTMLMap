@@ -29,7 +29,7 @@ Tips & Tricks
 
   - If you leave your path unnamed the _**areas**_ will be named sequentially... (#1, #2, #3...). Same occurs with _**alt**_ attributes.
 
-  - By default all paths will be exported as _**shape="polygon"**_ if you want a path to be exported as _**rect**_ or _**circle**_ add the words to the path name.
+  - By default all paths will be exported as _**shape="polygon"**_ if you want a path to be exported as _**rect**_ or _**circle**_ add the words to the path name separated from the rest of the name by one space. Take a look to the _**"AI_paths_to_HTML_MAP.ai"**_ file.
 
   - Remember that the _**circle**_ shapes must be perfectly circular. HTML Image Maps don't support ellipsoidal shapes.
 
